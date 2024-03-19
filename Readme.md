@@ -1,1 +1,1 @@
-the file file-sorter.py will sort file in the directory given by user input.
+## Here, the scripts are either used or kept for future purposes such as revision.
